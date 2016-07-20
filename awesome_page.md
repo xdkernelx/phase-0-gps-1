@@ -2,7 +2,9 @@
 #Aweomse things#
 
 __DBC is awesome.__
-__Coffee is awesome.x__
+
+__Coffee is awesome..__
+
 
 *We are working on a GPS for DBC!*
 
