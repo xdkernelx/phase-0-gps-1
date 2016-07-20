@@ -19,4 +19,4 @@ nothing really to be honest. i've learned a lot about git and really like it.
 
 **How was your first experience of pairing in a GPS?**
 
-i thought i was going to be really nervous and it would be awkward but it really wasn't bad at all. it was very smooth!'
+i thought i was going to be really nervous and it would be awkward but it really wasn't bad at all. it was very smooth!!'
