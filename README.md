@@ -1,2 +1,8 @@
-# phase-0-gps-1
-GPS 1.1 - Version Control and Git
+mkdir
+cd
+git clone <URL>
+git add <FILENAME>
+git commit -m "MESSAGE"
+git push origin master
+git checkout -b add-command-log
+sub1 README.md
